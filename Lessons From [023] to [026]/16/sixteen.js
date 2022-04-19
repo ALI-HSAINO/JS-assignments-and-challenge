@@ -1,0 +1,1 @@
+console.log(Math.round(Number.MAX_SAFE_INTEGER / Math.pow(16,12))/2); // 16
