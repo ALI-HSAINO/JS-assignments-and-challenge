@@ -1,0 +1,45 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 300px;
+  min-width: 300px;
+}
+form .input {
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding-left: 10px;
+}
+form input[name="create"] {
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: #009278;
+}
+.results {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 70%;
+}
+.results div,
+.results section {
+  width: 150px;
+  height: 40px;
+  background-color: #fc523e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+}
