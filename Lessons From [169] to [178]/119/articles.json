@@ -1,0 +1,32 @@
+[
+  {
+   "articleId" : "1",
+   "articleAuthor" : "john",
+   "articleSection" : "Historical",
+   "articleName" : "Land of history"
+  },
+  {
+"articleId" : "2",
+"articleAuthor" : "doe",
+   "articleSection" : "Romantic",
+   "articleName" : "Land of Romantic"
+  },
+  {
+"articleId" : "3",
+"articleAuthor" : "lorem",
+   "articleSection" : "Tech",
+   "articleName" : "Land of Tech"
+  },
+  {
+"articleId" : "4",
+"articleAuthor" : "Jack",
+   "articleSection" : "Political",
+   "articleName" : "Land of Political"
+  },
+  {
+"articleId" : "5",
+"articleAuthor" : "Dann",
+   "articleSection" : "Eco",
+   "articleName" : "Land of Economy"
+  }
+]
